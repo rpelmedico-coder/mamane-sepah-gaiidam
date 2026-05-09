@@ -9,7 +9,8 @@ This repository provides a quick and free way to set up a personal VPN (VLESS ov
 3. Click the **"Create codespace on main"** button (or the `+` icon).
 4. Wait a few moments for the virtual environment to load (it looks like a code editor).
 5. Look at the **Terminal** at the bottom of the screen. Type the following command and press `Enter`:
-   ```bash
+   ```
+   cd v2ray_codespace
    bash run.sh
    ```
 6. The system will automatically download and configure the Xray server.
